@@ -1,0 +1,27 @@
+body{
+    color: aliceblue;
+    background-color: #434343;
+}
+span{
+    font-weight: 800;
+    color: rgb(255, 248, 58);
+}
+h1{
+    color: rgb(56, 172, 255);
+}
+h2{
+    color: rgb(11, 162, 255);
+}
+a{
+    color: red;
+}
+.mood{
+    display: flex;
+    gap: 50px;
+}
+.happy{
+    display: flex;
+}
+.sad{
+    display: flex;
+}
